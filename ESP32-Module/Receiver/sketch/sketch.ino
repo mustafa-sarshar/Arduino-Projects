@@ -1,6 +1,7 @@
 /*
-Inspired by: DroneBot Workshop
-Source: https://www.youtube.com/watch?v=bEKjCDDUPaU&t=1556s&ab_channel=DroneBotWorkshop
+Inspired by: 
+    1- Paul McWhorter,      Source: https://www.youtube.com/watch?v=2AO_Gmh5K3Q&list=PLGs0VKk2DiYwEo-k0mjIkWXlkrJWAU4L9&ab_channel=PaulMcWhorter
+    2- DroneBot Workshop,   Source: https://www.youtube.com/watch?v=bEKjCDDUPaU&t=1556s&ab_channel=DroneBotWorkshop
 */
 
 // Include required libraries
